@@ -5,7 +5,7 @@
   "dependencies": {
     "@3846masa/axios-cookiejar-support": "^0.4.2",
     "axios": "^0.18.0",
-    "cheerio": "^1.0.0-rc.2",
+    "cheerio": "^1.0.0-rc.3",
     "lodash": "^4.17.11",
     "netlify-lambda": "^0.4.0",
     "react": "^16.5.2",
